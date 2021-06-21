@@ -9,6 +9,8 @@ function makeDiagonalRed(table) {
 /*
 function makeDiagonalRed(table) {
   // ваш код...
+=======
+>>>>>>> d04b64f406d37ce65b95eb88d5d6fa210d4b0084
   let rowsLength = table.rows.length;
   let rows = table.rows;
 

@@ -13,7 +13,10 @@ function makeFriendsList (friends) {
 /*New example*/
 /*
 function makeFriendsList(friends) {
+<<<<<<< HEAD
   // ваш код...
+=======
+>>>>>>> d04b64f406d37ce65b95eb88d5d6fa210d4b0084
   const ul = document.createElement('ul');
 
   ul.innerHTML = friends.map(item => `

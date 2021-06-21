@@ -1,5 +1,7 @@
 function initCarousel() {
+
 	let currentSlideNumber = 0;
+
   let slidesAmount = 4;
   let elem = document.querySelector('[data-carousel-holder]');
 

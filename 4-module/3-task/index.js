@@ -43,12 +43,17 @@ function highlight(table) {
 
 /*New Example*/
 /*
+=======
+>>>>>>> d04b64f406d37ce65b95eb88d5d6fa210d4b0084
 const FIRST_COLUMN = 1;
 const SECOND_COLUMN = 2;
 const THIRD_COLUMN = 3;
 
 function highlight(table) {
+<<<<<<< HEAD
   // ваш код...
+=======
+>>>>>>> d04b64f406d37ce65b95eb88d5d6fa210d4b0084
   const actions = {
     [THIRD_COLUMN]: (root, td) => {
       if (td.dataset.available === 'true') {
